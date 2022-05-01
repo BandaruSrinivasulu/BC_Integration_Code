@@ -1,0 +1,30 @@
+{
+  "id": "26518aa1-d4f3-44e2-a8fd-2f57b6fb55f4",
+  "name": "i95Dev-EGE Business Central Connector",
+  "publisher": "i95Dev",
+  "version": "3.0.0.0",
+  "brief": "i95Dev-EGE Business Central Connector",
+  "description": "i95Dev-EGE Business Central Connector",
+  "privacyStatement": "https://www.i95dev.com/privacy-policy/",
+  "EULA": "https://www.i95dev.com/terms-and-conditions/",
+  "help": "https://www.i95dev.com/contact/",
+  "url": "https://www.i95dev.com/",
+  "logo": "./Repos/AL/Logos/i95Devlogo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 70000,
+      "to": 80000
+    }
+  ],
+  "features": ["TranslationFile"],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
